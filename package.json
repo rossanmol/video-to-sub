@@ -15,5 +15,9 @@
   "bugs": {
     "url": "https://github.com/rossanmol/video-to-sub/issues"
   },
-  "homepage": "https://github.com/rossanmol/video-to-sub#readme"
+  "homepage": "https://github.com/rossanmol/video-to-sub#readme",
+  "dependencies": {
+    "ffmpeg-extract-audio": "^1.0.2",
+    "microsoft-cognitiveservices-speech-sdk": "^1.23.0"
+  }
 }
