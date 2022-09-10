@@ -1,0 +1,19 @@
+{
+  "name": "video-to-sub",
+  "version": "1.0.0",
+  "description": "",
+  "main": "audio.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/rossanmol/video-to-sub.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/rossanmol/video-to-sub/issues"
+  },
+  "homepage": "https://github.com/rossanmol/video-to-sub#readme"
+}
