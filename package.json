@@ -2,7 +2,7 @@
   "name": "video-to-sub",
   "version": "1.0.0",
   "description": "",
-  "main": "audio.js",
+  "main": "index.js",
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1"
   },
